@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://github.com/zitcvery/zitcvery.github.io/raw/refs/heads/main/rss/sitemap.txt
